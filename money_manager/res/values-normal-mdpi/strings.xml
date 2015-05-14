@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Money Manager Free</string>
+    <string name="inbox">Money Manager Free</string>
+    <string name="settings">Money Manager Free</string>
+    <string name="draft">Money Manager Free</string>
+    <string name="date">Current Date (M-D-YYYY): </string>
+    <string name="change_date">GET DATA</string>
+</resources>

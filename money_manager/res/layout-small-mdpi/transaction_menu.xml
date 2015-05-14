@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:paddingTop="50dp"
+    android:orientation="vertical">
+
+<Button 
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:id="@+id/all_tran"
+  android:gravity="center"
+  android:text="All Transaction"
+/>
+
+<Button 
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:id="@+id/five_tran"
+  android:gravity="center"
+  android:text="Last 5 Transaction"
+/>
+
+<Button 
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:id="@+id/tran_dates"
+  android:gravity="center"
+  android:text="Transaction between two Dates"
+/>
+
+<TextView
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:text="Choose the detail level of transaction"
+  android:paddingTop="30dp"   
+/>
+    
+ </LinearLayout>
